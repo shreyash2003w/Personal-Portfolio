@@ -8,7 +8,7 @@ const About = () => {
             <div className='pb-3'>
                 <p className='text-3xl font-bold inline border-b-4 border-gray-500'>About</p>
             </div>
-            <p className='text-lg mt-20'>
+            <p className='text-lg mt-20 sm:mt-13'>
             &nbsp;&nbsp;&nbsp;  Hello there! I'm a dedicated and enthusiastic individual currently embarking on a journey to obtain a Bachelor's degree in Computer Science and Engineering (CSE). My goal is to transform my passion for technology into innovative and impactful products that can make a positive difference in the world.
             </p>
             <br />
