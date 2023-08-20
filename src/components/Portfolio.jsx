@@ -48,7 +48,7 @@ const Portfolio = () => {
         id: 6,
         src: ArticleSum,
         github: "https://github.com/shreyash2003w/Article-Summarizer",
-        live: "su-mz.netlify.app",
+        live: "https://su-mz.netlify.app",
       },
       {
         id: 7,
