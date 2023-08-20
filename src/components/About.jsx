@@ -16,7 +16,7 @@ const About = () => {
             <p className='text-lg'>
             &nbsp;&nbsp;&nbsp; Outside of my academic pursuits, I enjoy staying up-to-date with the latest industry trends and engaging in personal projects that challenge me to push my boundaries. I firmly believe that through continuous learning and persistent effort.
 
-            If you're interested in discussing technology, sharing ideas, or collaborating on projects, feel free to reach out. Let's connect and explore the exciting possibilities that lie at the intersection of innovation and creativity!
+            Feel free to reach out. Let's connect and explore the exciting possibilities that lie at the intersection of innovation and creativity!
             </p>
 
         </div>
